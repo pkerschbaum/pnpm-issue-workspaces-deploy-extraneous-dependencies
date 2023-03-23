@@ -1,0 +1,7 @@
+{
+  "name": "package-a",
+  "version": "0.0.0",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
